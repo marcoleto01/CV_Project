@@ -8,10 +8,11 @@ Il progetto ha come obiettivo la creazione di un modello di Instance Segmentatio
 
 ## Analisi Dataset
 
-![alt text](https://github.com/marcoleto01/CV_Project/edit/main/Data Augmentation.jpg?raw=true)
+![Dataset Analysis](https://github.com/user-attachments/assets/279eea8b-40a9-4f5d-bdf5-bc14f5340da7)
 
 
 ## Aumento del Dataset 
+![Data Augmentation](https://github.com/user-attachments/assets/3eabfbd4-f568-4fda-915e-0401d79721ca)
 
 
 ## Parametri di Addestramento
